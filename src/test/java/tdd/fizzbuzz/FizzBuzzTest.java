@@ -16,7 +16,7 @@ public class FizzBuzzTest {
         assertThat(result).isEqualTo("1");
     }
 
-    
+
 
 
 
